@@ -1,0 +1,38 @@
+Stage E Freeze Manifest
+=======================
+
+Protocol
+--------
+CEC2014 F1-F30
+D=10
+Bounds=[-100,100]^10
+N=30
+MaxIter=500
+Runs=30
+Seeds=1000..1029
+
+Frozen optimizers
+-----------------
+algorithms/gwo.py
+algorithms/scho.py
+
+Status
+------
+E0 COMPLETE
+E1 COMPLETE
+E2 COMPLETE
+E3 COMPLETE
+E4 COMPLETE (1800/1800)
+E5 COMPLETE
+E6 COMPLETE
+E7 READY TO FREEZE
+
+Key conclusions
+---------------
+1. Evaluator/protocol compatibility is strongly supported.
+2. GWO reproduces paper-scale CEC2014 behavior well.
+3. SCHO is broadly similar on most functions but not fully reproduced.
+4. F21 shows heavy-tail/outlier instability.
+5. F23/F27 show deterministic plateau mismatches.
+6. F28 shows a deterministic plateau that matches the paper.
+7. Do not tune frozen algorithm code to force Table 14 agreement.

@@ -1,0 +1,4 @@
+﻿domain,scope,primary_metric,headline_1,headline_2,headline_3,status
+Classic F1-F23,23 functions,lower 30-run mean objective/error under Stage D rule,GWO lower mean: 8,SCHO lower mean: 12,Ties: 3,COMPLETE
+CEC2014,"F1-F30, D=10",mean error + paper-scale agreement,"Reproduction lower mean: GWO 22, SCHO 8","Within ±25% of paper mean error: GWO 22/30, SCHO 14/30",Paper/reproduction pairwise flips: 9,COMPLETE
+Engineering design,6 problems × 2 algorithms × 30 runs,feasible rate + feasible-only objective quality,Feasible runs: 288/360,NO_FEASIBLE_FOUND: 72/360,Structural failures: 0,COMPLETE

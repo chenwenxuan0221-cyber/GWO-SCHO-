@@ -1,0 +1,11 @@
+﻿claim_id,section,claim,evidence,status
+C01,Classic F1-F23,"GWO lower mean 8, SCHO 12, Tie 3",Stage D / G1,frozen
+C02,CEC2014,"Reproduction lower mean GWO 22, SCHO 8; 9 pairwise flips",Stage E / G1,frozen
+C03,CEC2014,"Within ±25% of paper mean error: GWO 22/30, SCHO 14/30",Stage E / G1,frozen
+C04,Engineering,360/360 runs; 288 feasible; 72 NO_FEASIBLE_FOUND; 0 structural failures,Stage F / G1,frozen
+C05,Engineering,"Speed reducer feasible runs: GWO 1/30, SCHO 14/30",Stage F5 / G1,frozen
+C06,Source anomaly,Cantilever 0.6224 printed objective conflicts with Table 20 scale; 0.06224 is diagnostic only,Stage F0-F6,frozen
+C07,Source anomaly,Spring g2 terminal -1 is required for paper-point feasibility,Stage F0-F1,frozen
+C08,Implementation,SCHO keeps source-faithful implementation behavior rather than an idealized rewrite,Stage C freeze,frozen
+C09,Reproducibility,NumPy RNG is not MATLAB RNG; no bitwise MATLAB claim,Project methodology,frozen
+C10,Interpretation,Stochastic deviations were retained rather than tuned away,Stages D/E/F,frozen

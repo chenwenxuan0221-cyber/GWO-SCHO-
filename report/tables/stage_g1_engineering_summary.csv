@@ -1,0 +1,13 @@
+﻿problem,algorithm,feasible_runs,runs,feasible_rate,best_feasible,paper_reported_f,best_gap_vs_paper,both_feasible_seeds,gwo_only_seeds,scho_only_seeds,neither_feasible_seeds,note
+spring,GWO,26,30,86.7%,0.01269251641,0.0126656,+0.213%,26,0,4,0,
+spring,SCHO,30,30,100.0%,0.01271284805,0.0126656,+0.373%,26,0,4,0,
+pressure_vessel,GWO,30,30,100.0%,5898.46787,5889.0061,+0.161%,30,0,0,0,
+pressure_vessel,SCHO,30,30,100.0%,6013.651107,5889.0061,+2.117%,30,0,0,0,
+welded_beam,GWO,18,30,60.0%,1.727472228,1.72516,+0.134%,10,8,9,3,
+welded_beam,SCHO,19,30,63.3%,1.733002838,1.72516,+0.455%,10,8,9,3,
+speed_reducer,GWO,1,30,3.3%,3003.935707,2995.2477,+0.290%,0,1,14,15,
+speed_reducer,SCHO,14,30,46.7%,3008.618945,2995.2477,+0.446%,0,1,14,15,
+cantilever_printed,GWO,30,30,100.0%,13.01247099,1.3033,N/A (formula mismatch),30,0,0,0,Primary result uses printed 0.6224 objective; Table-20 comparison is diagnostic only.
+cantilever_printed,SCHO,30,30,100.0%,13.01485319,1.3033,N/A (formula mismatch),30,0,0,0,Primary result uses printed 0.6224 objective; Table-20 comparison is diagnostic only.
+three_bar_truss,GWO,30,30,100.0%,263.8977231,263.8958476,+0.001%,30,0,0,0,
+three_bar_truss,SCHO,30,30,100.0%,263.89688,263.8958476,+0.000%,30,0,0,0,

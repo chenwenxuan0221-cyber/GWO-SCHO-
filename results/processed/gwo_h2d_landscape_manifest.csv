@@ -1,0 +1,24 @@
+﻿Figure,Function,GridRows,GridCols,ZMin,ZMax,Finite,Protocol
+Fig.7,F1,101,101,0.0,20000.0,True,"2-D benchmark version; plot range [-100,100]"
+Fig.7,F2,101,101,0.0,10200.0,True,"2-D benchmark version; plot range [-100,100]"
+Fig.7,F3,101,101,0.0,50000.0,True,"2-D benchmark version; plot range [-100,100]"
+Fig.7,F4,101,101,0.0,100.0,True,"2-D benchmark version; plot range [-100,100]"
+Fig.7,F5,201,201,1.0,161604040401.0,True,"2-D benchmark version; plot range [-200,200]"
+Fig.7,F6,101,101,0.5,20200.5,True,"2-D benchmark version; plot range [-100,100]"
+Fig.7,F7,67,67,0.00861346998501825,3.7827584417911515,True,"2-D benchmark version; plot range [-1,1]"
+Fig.8,F8,101,101,-837.7290352197082,837.7290352197082,True,"2-D benchmark version; plot range [-500,500]"
+Fig.8,F9,101,101,0.0,80.5,True,"2-D benchmark version; plot range [-5,5]"
+Fig.8,F10,81,81,4.440892098500626e-16,21.945564158371514,True,"2-D benchmark version; plot range [-20,20]"
+Fig.8,F11,101,101,0.0,125.89049295903634,True,"2-D benchmark version; plot range [-500,500]"
+Fig.8,F12,201,201,2.3558171576799584e-31,148.34207811169307,True,"2-D benchmark version; plot range [-10,10]"
+Fig.8,F13,126,126,1.3497838043956716e-32,13.027719372686157,True,"2-D benchmark version; plot range [-5,5]"
+Fig.9,F14,101,101,0.9980038388186492,499.9999953964842,True,"2-D benchmark version; plot range [-100,100]"
+Fig.9,F16,201,201,-1.031570363853,3.2333333333333334,True,"2-D benchmark version; plot range [-1,1]"
+Fig.9,F17,101,101,0.4062504162467775,505.0026948435495,True,"2-D benchmark version; plot range [-5,5]"
+Fig.9,F18,167,167,3.340299999999978,285136299.8936386,True,"2-D benchmark version; plot range [-5,5]"
+Fig.10,F24/CF1,101,101,0.2333484319696898,1309.28077022223,True,H1 source-faithful D10 slice through component-1 optimum
+Fig.10,F25/CF2,101,101,11.22382842647211,1087.5315017327573,True,H1 source-faithful D10 slice through component-1 optimum
+Fig.10,F26/CF3,101,101,3.8582207618709403,1754.0266575891108,True,H1 source-faithful D10 slice through component-1 optimum
+Fig.10,F27/CF4,101,101,74.76265005909391,1908.0618465037533,True,H1 source-faithful D10 slice through component-1 optimum
+Fig.10,F28/CF5,101,101,3.57210075962656,1120.8513971617535,True,H1 source-faithful D10 slice through component-1 optimum
+Fig.10,F29/CF6,101,101,6.306746063951996,1848.214128192748,True,H1 source-faithful D10 slice through component-1 optimum

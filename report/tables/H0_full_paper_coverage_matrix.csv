@@ -1,0 +1,15 @@
+﻿paper,section,experiment,status,project_audit
+GWO,4,Results and discussion: 29 benchmark functions,PARTIAL,F1-F23 classic reproduced; six CEC2005 composite F24-F29 not implemented.
+GWO,4.1,Exploitation analysis,CORE_DONE,GWO F1-F7 30-run statistics reproduced; full PSO/GSA/DE/FEP/CMA-ES rerun not present.
+GWO,4.2,Exploration analysis,CORE_DONE,GWO F8-F23 statistics reproduced; full paper comparison-algorithm rerun not present.
+GWO,4.3,Local minima avoidance on CEC2005 composite F24-F29,MISSING,No CEC2005 benchmark module/script/results found. CEC2014 F24-F29 are a different benchmark set.
+GWO,4.4,Convergence behavior analysis,MISSING,No exact shifted-function + 6-agent search-history/trajectory experiment found. Existing Stage-B plots are aggregate summaries.
+GWO,5,Three classical engineering problems,PARTIAL,"Spring/welded-beam/pressure-vessel definitions are present and run in Stage F, but common death penalty differs from original GWO Section-5 penalty protocol."
+GWO,6,Optical buffer design (BSPCW),MISSING,No BSPCW/NDBP/photonic-band evaluator or optical-engineering optimization script/result found.
+SCHO,3.1,23 classical benchmark functions,CORE_DONE,Source-faithful SCHO F1-F23 x30 runs and paper comparison exist.
+SCHO,3.1.1,Four subordinate-model / ablation analysis,MISSING,No SCHO_NT/SCHO_NSTF/SCHO_NFTF/SCHO_NSF/SCHO_NFF or variants 1-11 implementation/results found.
+SCHO,3.1.2,Qualitative analysis,MISSING,"No exact 2D topology/search-history/first-agent trajectory/average-fitness experiment found; frozen SCHO currently returns best curve, not population history."
+SCHO,3.1.3,Comparison with 8 other algorithms,PARTIAL,"SCHO and GWO runs/comparison exist; ALO/SCA/SSA/AOA/RSA/SHO/GJO are not implemented/rerun, so full Friedman/Wilcoxon experiment is not reproduced."
+SCHO,3.1.4,Scalability analysis D=100 and D=500,MISSING,No dedicated D=100/D=500 experiment/results found; classic_23 benchmark dimensions are currently fixed to paper's base dimensions.
+SCHO,3.2,CEC2014 D=10,CORE_DONE_PARTIAL_FULL_COMPARISON,GWO+SCHO F1-F30 x30 and paper-scale comparison exist; full 9-algorithm Friedman/Wilcoxon comparison is not rerun.
+SCHO,3.3,Six engineering design problems,CORE_DONE,"All six problems implemented, validated, and run; project uses explicit death penalty constant 1e30 because paper does not state the numeric constant. Other published comparison algorithms are not rerun."

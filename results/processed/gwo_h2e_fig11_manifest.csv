@@ -1,0 +1,4 @@
+﻿Artifact,Path,Functions,Protocol
+Fig11 part 1,report\figures\gwo_fig11_part1_F1_F7_F9.png,F1;F7;F9,controlled-equivalent shifted; 6 agents; 100 iterations
+Fig11 part 2,report\figures\gwo_fig11_part2_F10_F14_F18_F26_F29.png,F10;F14;F18;F26;F29,controlled-equivalent shifted; 6 agents; 100 iterations
+Fig11 all 8,report\figures\gwo_fig11_all8.png,F1;F7;F9;F10;F14;F18;F26;F29,controlled-equivalent shifted; 6 agents; 100 iterations

@@ -1,0 +1,5 @@
+﻿Paper,Section,Experiment,Functions,Dimension,Algorithms,Protocol,Statistics,Paper evidence,Current status
+SCHO,3.1.4,Scalability numerical results,F1-F13,D=100,9 algorithms,N=30; MaxIter=500; 30 independent runs,"Best, Average, STD, per-function Rank, Mean Rank, Final Ranking",Table 9,MISSING
+SCHO,3.1.4,Scalability numerical results,F1-F13,D=500,9 algorithms,N=30; MaxIter=500; 30 independent runs,"Best, Average, STD, per-function Rank, Mean Rank, Final Ranking",Table 10,MISSING
+SCHO,3.1.4,Wilcoxon rank-sum significance,F1-F13,D=100,SCHO vs 8 comparison algorithms,alpha=0.05; based on run distributions,p-value + significance (+/-/~),Table 11,MISSING
+SCHO,3.1.4,Wilcoxon rank-sum significance,F1-F13,D=500,SCHO vs 8 comparison algorithms,alpha=0.05; based on run distributions,p-value + significance (+/-/~),Table 12,MISSING

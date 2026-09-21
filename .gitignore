@@ -2,3 +2,25 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .ipynb_checkpoints/
+
+# Local legacy / superseded artifacts after H0-H5 freeze
+/README.md
+/algorithms/sea_horse_sho.py
+/experiments/benchmark_scho_c11.py
+/experiments/engineering_gwo.py
+/experiments/engineering_scho.py
+/experiments/test_gwo.py
+/experiments/test_init_order_f9_f15.py
+/experiments/test_sea_horse_sho_h5c7.py
+/main.py
+/report/notes/H5c7_sea_horse_sho_protocol.md
+/report/notes/README_F*.md
+/report/notes/README_G*.md
+/report/notes/README_H0*.md
+/report/notes/README_H1*.md
+/report/notes/README_H2*.md
+/report/notes/img.png
+/report/tables/C13_SCHO_vs_Paper_Table7.xlsx
+/report/tables/D2_GWO_vs_SCHO_classic23.xlsx
+/results/processed/gwo_classic23_comparison1.xlsx
+/results/raw/scho_classical_h5_checkpoint.jsonl

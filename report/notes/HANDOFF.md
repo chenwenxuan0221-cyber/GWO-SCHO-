@@ -4,7 +4,7 @@
 项目根目录：`D:\Anaconda\envs\DL\metaheuristic-reproduction`
 环境：Windows PowerShell，conda `(DL)`，Python 3.11
 当前分支：`post-stage-g-h5-freeze`
-当前 HEAD：`c4f89d3`
+当前 HEAD：以 `git rev-parse --short HEAD` 为准（本文更新于最终 extension tag 前）
 
 ## 1. 总原则
 - 优先忠实于作者源码与论文结构。
@@ -29,6 +29,9 @@ Full-paper extension：
 2955124  Freeze H5 SCHO Section 3.1.3 nine-algorithm comparison
 5168402  Freeze supplemental provenance and Stage D evidence
 c4f89d3  Freeze SCHO 3.3 MATLAB source audit
+d98e215  Freeze Stage D corrected F7 rerun provenance
+1d43a59  Freeze Stage B GWO comparison figures and data
+ef1cac6  Ignore local legacy and superseded artifacts
 ```
 
 ## 3. 冻结核心算法

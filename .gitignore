@@ -24,3 +24,5 @@ __pycache__/
 /report/tables/D2_GWO_vs_SCHO_classic23.xlsx
 /results/processed/gwo_classic23_comparison1.xlsx
 /results/raw/scho_classical_h5_checkpoint.jsonl
+
+/results/raw/scho_scalability_h6b_checkpoint.jsonl

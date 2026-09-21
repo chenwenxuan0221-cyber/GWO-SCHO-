@@ -1,0 +1,12 @@
+﻿Variant,SCHO_OptimalAverageCount,Variant_OptimalAverageCount,Ties,SCHO_StrictWins,Variant_StrictWins,Paper_SCHO_Count,Paper_Variant_Count,SCHO_Count_Delta_vs_Paper,Variant_Count_Delta_vs_Paper,TieRTol,TieATol
+V1,14,17,8,6,9,18,15,-4,2,1e-09,1e-12
+V2,20,14,11,9,3,20,13,0,1,1e-09,1e-12
+V3,17,17,11,6,6,17,15,0,2,1e-09,1e-12
+V4,14,16,7,7,9,17,14,-3,2,1e-09,1e-12
+V5,19,16,12,7,4,17,16,2,0,1e-09,1e-12
+V6,15,15,7,8,8,18,14,-3,1,1e-09,1e-12
+V7,17,15,9,8,6,20,13,-3,2,1e-09,1e-12
+V8,16,17,10,6,7,20,11,-4,6,1e-09,1e-12
+V9,16,14,7,9,7,18,9,-2,5,1e-09,1e-12
+V10,18,17,12,6,5,20,13,-2,4,1e-09,1e-12
+V11,19,20,16,3,4,18,15,1,5,1e-09,1e-12

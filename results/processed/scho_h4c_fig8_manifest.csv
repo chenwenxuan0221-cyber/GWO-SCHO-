@@ -1,0 +1,15 @@
+﻿ArtifactType,FunctionOrGroup,Path,Status,Notes
+raw_history_npz,F2,results\raw\scho_h4c_fig8_F2.npz,PASS,Full evaluated-position/fitness history and convergence evidence.
+raw_history_npz,F7,results\raw\scho_h4c_fig8_F7.npz,PASS,Full evaluated-position/fitness history and convergence evidence.
+raw_history_npz,F9,results\raw\scho_h4c_fig8_F9.npz,PASS,Full evaluated-position/fitness history and convergence evidence.
+raw_history_npz,F10,results\raw\scho_h4c_fig8_F10.npz,PASS,Full evaluated-position/fitness history and convergence evidence.
+raw_history_npz,F11,results\raw\scho_h4c_fig8_F11.npz,PASS,Full evaluated-position/fitness history and convergence evidence.
+raw_history_npz,F15,results\raw\scho_h4c_fig8_F15.npz,PASS,Full evaluated-position/fitness history and convergence evidence.
+raw_history_npz,F21,results\raw\scho_h4c_fig8_F21.npz,PASS,Full evaluated-position/fitness history and convergence evidence.
+figure,F2_F7_F9,report\figures\scho_fig8_part1_F2_F7_F9.png,PASS,SCHO Fig.8 paper-structure / controlled-equivalent visualization.
+figure,F10_F11_F15,report\figures\scho_fig8_part2_F10_F11_F15.png,PASS,SCHO Fig.8 paper-structure / controlled-equivalent visualization.
+figure,F21,report\figures\scho_fig8_part3_F21.png,PASS,SCHO Fig.8 paper-structure / controlled-equivalent visualization.
+figure,ALL7,report\figures\scho_fig8_all7.png,PASS,SCHO Fig.8 paper-structure / controlled-equivalent visualization.
+summary_csv,ALL7,results\processed\scho_h4c_fig8_summary.csv,PASS,Run-level qualitative diagnostics.
+manifest_csv,ALL7,results\processed\scho_h4c_fig8_manifest.csv,PASS,H4c evidence manifest.
+report_md,ALL7,report\notes\H4c_scho_fig8_results.md,PASS,Protocol and observation summary.

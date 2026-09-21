@@ -1,0 +1,12 @@
+﻿Variant,PaperDescription,PaperAnchor_SCHO,PaperAnchor_Variant,SourceResolution,MainUncertainty,ControlledImplementationFeasibility
+Variant1,Use the first-phase exploitation equation in both exploitation phases.,18,15,PAPER_DESCRIBED_NO_VARIANT_SOURCE,Exact author variant code/RNG consumption not recovered.,HIGH
+Variant2,Remove the second-phase exploitation equation.,20,13,PAPER_DESCRIBED_NO_VARIANT_SOURCE,Paper does not state the exact post-T fallback behavior when exploitation is selected.,MEDIUM
+Variant3,Replace sinh/cosh in the second-phase exploitation equation with sine/cosine of the same value range.,17,15,FORMULA_UNRESOLVED,Exact 'same value range' rescaling/mapping is not printed.,MEDIUM
+Variant4,Replace sinh/cosh in the first-phase exploration equation with sine/cosine of the same value range.,17,14,FORMULA_UNRESOLVED,Exact 'same value range' rescaling/mapping is not printed.,MEDIUM
+Variant5,Replace sinh/cosh in the second-phase exploitation equation with linear functions of the same value range.,17,16,FORMULA_UNRESOLVED,Exact linear replacement and range mapping are not printed.,MEDIUM
+Variant6,Replace sinh/cosh in the first-phase exploration equation with linear functions of the same value range.,18,14,FORMULA_UNRESOLVED,Exact linear replacement and range mapping are not printed.,MEDIUM
+Variant7,Use a sine/cosine switching mechanism.,20,13,FORMULA_UNRESOLVED,"Exact switching equation, phase/range scaling, and random coupling are not printed.",MEDIUM
+Variant8,Use a linear-function switching mechanism.,20,11,FORMULA_UNRESOLVED,Exact linear switching equation and range scaling are not printed.,MEDIUM
+Variant9,Use the same selection probability for exploration and exploitation.,18,9,PAPER_DESCRIBED_NO_VARIANT_SOURCE,"50/50 intent is clear, but exact author random draw and branch coding are unrecovered.",HIGH
+Variant10,Use sine/cosine in Eq. (17).,20,13,FORMULA_UNRESOLVED,Exact replacement formula/range matching inside Eq. (17) is not printed.,MEDIUM
+Variant11,Use linear functions in Eq. (17).,18,15,FORMULA_UNRESOLVED,Exact linear replacement formula/range matching inside Eq. (17) is not printed.,MEDIUM

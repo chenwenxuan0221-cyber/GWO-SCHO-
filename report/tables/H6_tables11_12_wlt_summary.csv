@@ -1,0 +1,17 @@
+Dimension,Comparator,Wins,Losses,Ties,PaperWins,PaperLosses,PaperTies,DeltaWins,DeltaLosses,DeltaTies,ExactWLTMatch
+100,GWO,8,5,0,10,3,0,-2,2,0,False
+100,ALO,12,1,0,13,0,0,-1,1,0,False
+100,SCA,13,0,0,13,0,0,0,0,0,True
+100,SSA,12,1,0,12,1,0,0,0,0,True
+100,AOA,5,2,6,9,1,3,-4,1,3,False
+100,RSA,4,3,6,5,2,6,-1,1,0,False
+100,SHO,7,0,6,10,1,2,-3,-1,4,False
+100,GJO,6,3,4,9,3,1,-3,0,3,False
+500,GWO,9,4,0,10,3,0,-1,1,0,False
+500,ALO,12,1,0,12,1,0,0,0,0,True
+500,SCA,13,0,0,13,0,0,0,0,0,True
+500,SSA,12,1,0,13,0,0,-1,1,0,False
+500,AOA,5,2,6,11,1,1,-6,1,5,False
+500,RSA,4,3,6,5,2,6,-1,1,0,False
+500,SHO,7,3,3,9,2,2,-2,1,1,False
+500,GJO,8,4,1,9,4,0,-1,0,1,False
